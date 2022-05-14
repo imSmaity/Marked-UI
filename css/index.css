@@ -25,3 +25,7 @@ hr {
 img {
   max-width: 100%;
 }
+
+.primary {
+  color: rgb(11, 245, 194);
+}
