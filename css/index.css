@@ -8,24 +8,62 @@ body {
   font-family: Poppins;
 }
 
-ul {
-  padding: 0;
-  list-style-type: none;
+.b-1 {
+  border: 1px solid gray;
 }
 
-a {
-  text-decoration: none;
+.b-2 {
+  border: 2px solid gray;
 }
 
-hr {
-  border: 0;
-  border-top: 1px dotted #efefef;
+.b-3 {
+  border: 3px solid gray;
 }
 
-img {
-  max-width: 100%;
+.bt-1 {
+  border-top: 1px solid gray;
 }
 
-.primary {
-  color: rgb(11, 245, 194);
+.bt-2 {
+  border-top: 2px solid gray;
+}
+
+.bt-3 {
+  border-top: 3px solid gray;
+}
+
+.bb-1 {
+  border-bottom: 1px solid gray;
+}
+
+.bb-2 {
+  border-bottom: 2px solid gray;
+}
+
+.bb-3 {
+  border-bottom: 3px solid gray;
+}
+
+.bl-1 {
+  border-left: 1px solid gray;
+}
+
+.bl-2 {
+  border-left: 2px solid gray;
+}
+
+.bl-3 {
+  border-left: 3px solid gray;
+}
+
+.br-1 {
+  border-right: 1px solid gray;
+}
+
+.br-2 {
+  border-right: 2px solid gray;
+}
+
+.br-3 {
+  border-right: 3px solid gray;
 }

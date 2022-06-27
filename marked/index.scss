@@ -1,6 +1,57 @@
 @import 'variable';
 @import 'base';
 
-.primary{
-    color:$green
+
+//Borders
+.b-1{
+    border: $px1 solid $gray;
+}
+.b-2{
+    border: $px2 solid $gray;
+}
+.b-3{
+    border: $px3 solid $gray;
+}
+//Borders top
+.bt-1{
+    border-top: $px1 solid $gray;
+}
+.bt-2{
+    border-top: $px2 solid $gray;
+}
+.bt-3{
+    border-top: $px3 solid $gray;
+}
+
+//Borders bottom:
+.bb-1{
+    border-bottom: $px1 solid $gray;
+}
+.bb-2{
+    border-bottom: $px2 solid $gray;
+}
+.bb-3{
+    border-bottom: $px3 solid $gray;
+}
+
+// Borders left
+.bl-1{
+    border-left: $px1 solid $gray;
+}
+.bl-2{
+    border-left: $px2 solid $gray;
+}
+.bl-3{
+    border-left: $px3 solid $gray;
+}
+
+// Borders right
+.br-1{
+    border-right: $px1 solid $gray;
+}
+.br-2{
+    border-right: $px2 solid $gray;
+}
+.br-3{
+    border-right: $px3 solid $gray;
 }
